@@ -2,3 +2,4 @@
 input/*
 config.json
 logs/*
+*.pdf
