@@ -3,3 +3,6 @@ input/*
 config.json
 logs/*
 *.pdf
+saved_model/h5_model.h5
+saved_model/model.h5
+saved_model/model.json
