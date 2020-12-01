@@ -6,3 +6,4 @@ logs/*
 saved_model/h5_model.h5
 saved_model/model.h5
 saved_model/model.json
+training_2/*
